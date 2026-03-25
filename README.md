@@ -1,4 +1,4 @@
-# 🔐 HTML Authentication System (Styled)
+# 🔐 Authentication System (Styled)
 
 This project is a responsive and visually enhanced authentication system built using HTML, Bootstrap 5, and custom CSS.
 
