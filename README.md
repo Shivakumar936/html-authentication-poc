@@ -60,7 +60,7 @@ It includes all essential authentication pages with modern UI/UX design and resp
 
 ## 📸 Screenshots
 
-(Add screenshots of all pages inside the `screenshots` folder)
+( Added screenshots of all pages inside the `screenshots` folder)
 
 ---
 
