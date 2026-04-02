@@ -16,7 +16,7 @@ It includes all essential authentication pages with modern UI/UX design and resp
 
 ---
 
-## ✨ Features
+##  Features
 
 - Fully responsive design (Mobile, Tablet, Desktop)
 - Bootstrap 5 integration
@@ -24,13 +24,13 @@ It includes all essential authentication pages with modern UI/UX design and resp
 - Google Fonts (Poppins)
 - Card-based UI layout
 - Form validation using HTML5
-- Password visibility toggle 👁
+- Password visibility toggle 
 - Clean and professional UI
 - Smooth hover effects and transitions
 
 ---
 
-## 🎨 Technologies Used
+##  Technologies Used
 
 - HTML5  
 - Bootstrap 5  
@@ -39,15 +39,16 @@ It includes all essential authentication pages with modern UI/UX design and resp
 ---
 
 ## 📁 Project Structure
-/authentication-system-styled
-│── login.html
-│── register.html
-│── forgot-password.html
-│── reset-password.html
-│── dashboard.html
-│── styles.css
-│── README.md
-│── /screenshots
+- /authentication-system-styled
+  - login.html
+  - register.html
+  - forgot-password.html
+  - reset-password.html
+  - dashboard.html
+  - styles.css
+  - README.md
+- /screenshots
+
 
 
 
