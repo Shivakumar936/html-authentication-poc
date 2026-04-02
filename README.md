@@ -80,7 +80,7 @@ It includes all essential authentication pages with modern UI/UX design and resp
 
 ## 🔗 GitHub Repository
 
-https://github.com/Shivakumar936/html-authentication-poc
+https://github.com/Shivakumar936/authentication-system-styled
 
 ---
 
