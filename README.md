@@ -61,9 +61,22 @@ It includes all essential authentication pages with modern UI/UX design and resp
 
 ## 📸 Screenshots
 
-( Added screenshots of all pages inside the `screenshots` folder)
+### Register page
+![Screenshot 1](https://github.com/Shivakumar936/authentication-system-styled/blob/main/screenshots/register%20page.png)
 
----
+### Login page
+![Screenshot 2](https://github.com/Shivakumar936/authentication-system-styled/blob/main/screenshots/Login%20page.png  )
+
+### Forgot-password page
+![Screenshot 3](https://github.com/Shivakumar936/authentication-system-styled/blob/main/screenshots/forgot-password%20page.png)
+
+### Reset-password page
+![Screenshot 4](https://github.com/Shivakumar936/authentication-system-styled/blob/main/screenshots/reset-password%20page.png)
+
+### Dashboard page
+![Screenshot 5](https://github.com/Shivakumar936/authentication-system-styled/blob/main/screenshots/dashboard%20page.png)
+
+
 
 ## 🔗 GitHub Repository
 
