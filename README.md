@@ -39,15 +39,23 @@ It includes all essential authentication pages with modern UI/UX design and resp
 ---
 
 ## 📁 Project Structure
-- /authentication-system-styled
-  - login.html
-  - register.html
-  - forgot-password.html
-  - reset-password.html
-  - dashboard.html
-  - styles.css
-  - README.md
-- /screenshots
+```
+authentication-system-styled/
+├── login.html
+├── register.html
+├── forgot-password.html
+├── reset-password.html
+├── dashboard.html
+├── styles.css
+├── README.md
+└── screenshots/
+    ├── login page.png
+    ├── register page.png
+    ├── dashboard page.png
+    ├── forgot-password page .png
+    └── reset-password page.png
+```
+
 
 
 
